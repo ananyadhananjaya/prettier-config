@@ -4,7 +4,7 @@
   "description": "A custom prettier config on the fly",
   "main": "index.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access=public"
   },
   "keywords": [
     "prettier",
