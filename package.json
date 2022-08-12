@@ -11,5 +11,9 @@
     "prettier-config"
   ],
   "author": "Ananya Dhananjaya <ananya.dhananjaya1998@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ananyadhananjaya/prettier-config"
+  }
 }
